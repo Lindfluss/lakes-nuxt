@@ -1,0 +1,18 @@
+<svg width="132.000000" height="132.000000" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_114">
+			<rect id="контент" width="132.000000" height="132.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="контент" width="132.000000" height="132.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_114)">
+		<path id="Vector" d="M11.62 61.9487L120.049 12.6372" stroke="#000001" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M99.7771 5L120.049 12.6372L112.506 32.9087" stroke="#000001" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M101.286 127.666L101.286 61.6658C101.286 60.4155 101.782 59.2163 102.667 58.3323C103.551 57.4482 104.75 56.9514 106 56.9514L120.143 56.9514C121.393 56.9514 122.592 57.4482 123.476 58.3323C124.361 59.2163 124.857 60.4155 124.857 61.6658L124.857 127.666L101.286 127.666Z" stroke="#000001" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M54.1429 127.666L54.1429 75.8086C54.1429 74.5583 54.6396 73.3591 55.5237 72.4751C56.4078 71.5911 57.6069 71.0942 58.8572 71.0942L73.0001 71.0942C74.2504 71.0942 75.4495 71.5911 76.3336 72.4751C77.2177 73.3591 77.7144 74.5583 77.7144 75.8086L77.7144 127.666L54.1429 127.666Z" stroke="#000001" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M7 127.666L7 89.9514C7 88.7012 7.49664 87.5022 8.38074 86.6179C9.26489 85.7339 10.464 85.2373 11.7143 85.2373L25.8571 85.2373C27.1074 85.2373 28.3065 85.7339 29.1906 86.6179C30.0747 87.5022 30.5714 88.7012 30.5714 89.9514L30.5714 127.666L7 127.666Z" stroke="#000001" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round"/>
+	</g>
+</svg>
